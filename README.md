@@ -35,61 +35,61 @@ This dataset contains a list of video games with sales greater than 100,000 copi
 - Top 10 Publishers That Have Highest Count Of Games
 - Count Of Games For Every Genre
 - Global Sales Analysis
-  o Top 10 [  'Name', 'Platform' ] That Have Highest Global Sales
-  oTotal Global Sales For Every Decade
-  oTop 10 Years That Have Highest Global Sales
-  oTotal Global Sales For Every Genre
-  oTop 10 Platform That Have Highest Global Sales
-  oTop 10 Publisher That Have Highest Global Sales
+  - Top 10 [  'Name', 'Platform' ] That Have Highest Global Sales
+  - Total Global Sales For Every Decade
+  - Top 10 Years That Have Highest Global Sales
+  - Total Global Sales For Every Genre
+  - Top 10 Platform That Have Highest Global Sales
+  - Top 10 Publisher That Have Highest Global Sales
 - Europe Sales
-  oTop 10 [  'Name', 'Platform' ] That Have Highest EU Sales
-  oTotal EU Sales For Every Decade
-  oTop 10 Years That Have Highest EU Sales
-  oTotal EU Sales For Every Genre
-  oTop 10 Platform That Have Highest EU Sales
-  oTop 10 Publisher That Have Highest EU Sales
+  - Top 10 [  'Name', 'Platform' ] That Have Highest EU Sales
+  - Total EU Sales For Every Decade
+  - Top 10 Years That Have Highest EU Sales
+  - Total EU Sales For Every Genre
+  - Top 10 Platform That Have Highest EU Sales
+  - Top 10 Publisher That Have Highest EU Sales
 - North America Sales
-  oTop 10 [  'Name', 'Platform' ] That Have Highest NA Sales
-  oTotal NA Sales For Every Decade
-  oTop 10 Years That Have Highest NA Sales
-  oTotal NA Sales For Every Genre
-  oTop 10 Platform That Have Highest NA Sales
-  oTop 10 Publisher That Have Highest NA Sales
+  - Top 10 [  'Name', 'Platform' ] That Have Highest NA Sales
+  - Total NA Sales For Every Decade
+  - Top 10 Years That Have Highest NA Sales
+  - Total NA Sales For Every Genre
+  - Top 10 Platform That Have Highest NA Sales
+  - Top 10 Publisher That Have Highest NA Sales
 - Japan Sales
-  oTop 10 [  'Name', 'Platform' ] That Have Highest JP Sales
-  oTotal JP Sales For Every Decade
-  oTop 10 Years That Have Highest JP Sales
-  oTotal JP Sales For Every Genre
-  oTop 10 Platform That Have Highest JP Sales
-  oTop 10 Publisher That Have Highest JP Sales
+  - Top 10 ['Name', 'Platform'] That Have Highest JP Sales
+  - Total JP Sales For Every Decade
+  - Top 10 Years That Have Highest JP Sales
+  - Total JP Sales For Every Genre
+  - Top 10 Platform That Have Highest JP Sales
+  - Top 10 Publisher That Have Highest JP Sales
 
 
 ## Data Visualization With Power BI
 
 - Four Pages for Dataset Visualization
-  oFirst Page For Global Sales
-  oSecond Page For EU Sales
-  oThird Page For NA Sales
-  oLast Page For JP Sales
+  - First Page For Global Sales
+  - Second Page For EU Sales
+  - Third Page For NA Sales
+  - Last Page For JP Sales
 - Measures For: 
-  oCount OF Games 
-  oDistinct Count Of Platforms 
-  oDistinct Count Of Publishers 
-  oTotal Of Global Sales 
-  oTotal Of EU Sales
-  oTotal Of NA Sales
-  oTotal Of JP Sales
+  - Count OF Games 
+  - Distinct Count Of Platforms 
+  - Distinct Count Of Publishers 
+  - Total Of Global Sales 
+  - Total Of EU Sales
+  - Total Of NA Sales
+  - Total Of JP Sales
 - Dashboard in Every Page Has:
-  oName Of Type Of Analysis
-  oPage Navigator For Every Page
-  oSlicers For:
+  - Name Of Type Of Analysis
+  - Page Navigator For Every Page
+  - Slicers For:
     - Platforms
     - Publishers
-  oCount OF Games # Card
-  oDistinct Count Of Platforms # Card
-  oDistinct Count Of Publishers # Card
-  oTotal Of Sales # Card
-  oTotal Sales By Genre # Column Chart
-  oTop 5 Platforms That Have Highest Sales # Bar Cart
-  oTop 5 Publishers That Have Highest Sales # Bar Chart
-  oTotal Sales By Years # Line Chart
+  - Count OF Games # Card
+  - Distinct Count Of Platforms # Card
+  - Distinct Count Of Publishers # Card
+  - Total Of Sales # Card
+  - Total Sales By Genre # Column Chart
+  - Top 5 Platforms That Have Highest Sales # Bar Cart
+  - Top 5 Publishers That Have Highest Sales # Bar Chart
+  - Total Sales By Years # Line Chart
